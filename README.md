@@ -1,3 +1,10 @@
+## Equipo: Super Sangre Joven 
+### Integrantes:  
+### Santiago Serratos Mendoza 
+### Eduardo Bernal Figa
+### Jacobo Jimenez Rangel
+### Roberto Migranas Ceja
+
 # Practica3
 En esta práctica podremos observar la instalación de una nueva versión del kernel.
 
