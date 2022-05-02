@@ -1,13 +1,4 @@
 # Practica3
-# Integrantes:
-
-Bernal Figa Eduardo
-Jimenez Rangel Jacobo
-Migranas Ceja Roberto
-Serratos Mendoza Santiago
-
-# Equipo: Super sangre joven 
-
 En esta práctica podremos observar la instalación de una nueva versión del kernel.
 
 ## 1. ¿Cómo hacer un respaldo de una máquina virtual? y ¿cómo levantar ese respaldo?
@@ -31,6 +22,7 @@ En esta práctica podremos observar la instalación de una nueva versión del ke
 ![6](https://user-images.githubusercontent.com/93893818/166303590-c0639af2-6a5e-4ba1-83c1-af5a695db498.png)
 
 7) Le damos clic en exportar.
+
 ![7](https://user-images.githubusercontent.com/93893818/166303708-ba1feaf9-4c16-49e9-b58a-02afa1d2dad6.png)
 
 8) Esperamos a que se complete de exportar.
@@ -38,6 +30,34 @@ En esta práctica podremos observar la instalación de una nueva versión del ke
 
 9) Al finalizar se visualizará el archivo en la carpeta donde se guardó.
 ![9](https://user-images.githubusercontent.com/93893818/166304498-7f4c8471-c4a3-4382-83ae-1dcc9ffd9d6f.png)
+
+LEVANTAR EL RESPALDO  DE LA MAQUINA VIRTUAL UBUNTU
+1) Dar clic en importar.
+![1](https://user-images.githubusercontent.com/93893818/166306017-3aca29a5-d68c-4514-b582-ef4da88ba55b.png)
+
+2) Seleccionar el icono de la carpeta amarilla para seleccionar la máquina virtual de respaldo.
+![2](https://user-images.githubusercontent.com/93893818/166306209-aa7a4651-b253-45af-8f32-72d33746c0c7.png)
+
+3) Seleccionamos la máquina virtual de respaldo y le damos clic en abrir.
+![3](https://user-images.githubusercontent.com/93893818/166306330-f369fc31-81d7-465b-bf68-fd352b230b72.png)
+
+4) Damos clic en siguiente.
+![4](https://user-images.githubusercontent.com/93893818/166306417-5e4b8295-7914-4737-9b86-81183f8b01d8.png)
+
+5) Damos clic en importar.
+![5](https://user-images.githubusercontent.com/93893818/166306489-6d7cbf0d-23ca-4805-8306-6b47237876b2.png)
+
+6) Esperar a que se importe.
+![6](https://user-images.githubusercontent.com/93893818/166306756-32b1cf69-79b0-465b-b030-4b081d9c9ce4.png)
+
+7) Se ha creado el respaldo
+![7](https://user-images.githubusercontent.com/93893818/166306836-2cb83f2f-6d05-4a25-a5ef-1e839e6cfcc7.png)
+
+8) Iniciar la maquina virtual de respaldo dando clic en la flecha verde iniciar o doble click sobre la maquina.
+![8](https://user-images.githubusercontent.com/93893818/166306942-7b4addb2-a745-43e2-bce9-4a2ff737a916.png)
+
+9) Listo, se creo el respaldo de la maquina virtual.
+![9](https://user-images.githubusercontent.com/93893818/166307022-e6ce7933-c70e-4f6b-a773-2dc8c24537f6.png)
 
 
 ## 2.	Explicar la nomenclatura del kernel.
