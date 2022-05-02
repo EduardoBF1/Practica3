@@ -17,6 +17,13 @@ En esta práctica podremos observar la instalación de una nueva versión del ke
 5) Seleccionamos la carpeta donde queremos que se guarde y damos clic en guardar.
 ![5](https://user-images.githubusercontent.com/93893818/166301740-d4ce7cd3-fd1a-4604-add1-dcbad5712b38.png)
 
+6) Damos clic en siguiente.
+![6](https://user-images.githubusercontent.com/93893818/166303590-c0639af2-6a5e-4ba1-83c1-af5a695db498.png)
+
+7) Le damos clic en exportar.
+![7](https://user-images.githubusercontent.com/93893818/166303708-ba1feaf9-4c16-49e9-b58a-02afa1d2dad6.png)
+
+
 ## 2.	Explicar la nomenclatura del kernel.
 
 La nomenclatura de Kernel consta de 3 campos que están separado por un punto "."
