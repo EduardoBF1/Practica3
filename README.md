@@ -3,7 +3,8 @@ En esta práctica podremos observar la instalación de una nueva versión del ke
 
 ## 1. ¿Cómo hacer un respaldo de una máquina virtual? y ¿cómo levantar ese respaldo?
 1.- Seleccionar la máquina que se quiera respaldar.
-![1](
+![1](https://user-images.githubusercontent.com/93893818/166300741-2967d282-9137-4ea2-96c8-7c9cd9f223f3.png)
+
 ## 2.	Explicar la nomenclatura del kernel.
 
 La nomenclatura de Kernel consta de 3 campos que están separado por un punto "."
