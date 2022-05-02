@@ -1,5 +1,6 @@
 # Practica3
 En esta práctica podremos observar la instalación de una nueva versión del kernel.
+
 ##3. Investigar y enlistar los paquetes requeridos para la compilación y ¿cómo instalarlos
 desde terminal?
 
