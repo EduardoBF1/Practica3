@@ -1,12 +1,12 @@
 # Practica3
-#Integrantes:
+# Integrantes:
 
 Bernal Figa Eduardo
 Jimenez Rangel Jacobo
 Migranas Ceja Roberto
 Serratos Mendoza Santiago
 
-#Equipo: Super sangre joven 
+# Equipo: Super sangre joven 
 
 En esta práctica podremos observar la instalación de una nueva versión del kernel.
 
