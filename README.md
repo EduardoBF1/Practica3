@@ -2,19 +2,24 @@
 En esta práctica podremos observar la instalación de una nueva versión del kernel.
 
 ## 1. ¿Cómo hacer un respaldo de una máquina virtual? y ¿cómo levantar ese respaldo?
-1.- Seleccionar la máquina que se quiera respaldar.
+1) Seleccionar la máquina que se quiera respaldar.
+
 ![1](https://user-images.githubusercontent.com/93893818/166300741-2967d282-9137-4ea2-96c8-7c9cd9f223f3.png)
 
 2) Después, ir a archivo y dar clic en exportar servicio virtualizado
+
 ![2](https://user-images.githubusercontent.com/93893818/166301312-c9d72d4f-5f9b-4168-a421-85489334d78c.png)
 
 3) Seleccionar la máquina virtual que se quiere respaldar y dar clic en siguiente.
+
 ![3](https://user-images.githubusercontent.com/93893818/166301538-0d8fd852-c70c-4e7e-afcd-359af4a09d0c.png)
 
-4) Seleccionar la carpeta amarilla para escoger la ubicación de la máquina virtual de respaldo. 
+4) Seleccionar la carpeta amarilla para escoger la ubicación de la máquina virtual de respaldo.
+ 
 ![4](https://user-images.githubusercontent.com/93893818/166301615-4ae39195-a533-40bd-b26b-5d63de870fcc.png)
 
 5) Seleccionamos la carpeta donde queremos que se guarde y damos clic en guardar.
+
 ![5](https://user-images.githubusercontent.com/93893818/166301740-d4ce7cd3-fd1a-4604-add1-dcbad5712b38.png)
 
 6) Damos clic en siguiente.
@@ -29,16 +34,21 @@ En esta práctica podremos observar la instalación de una nueva versión del ke
 ![8](https://user-images.githubusercontent.com/93893818/166304430-81f5b39d-a74d-4931-a825-df7596eae4da.png)
 
 9) Al finalizar se visualizará el archivo en la carpeta donde se guardó.
+
 ![9](https://user-images.githubusercontent.com/93893818/166304498-7f4c8471-c4a3-4382-83ae-1dcc9ffd9d6f.png)
 
 LEVANTAR EL RESPALDO  DE LA MAQUINA VIRTUAL UBUNTU
+
 1) Dar clic en importar.
+
 ![1](https://user-images.githubusercontent.com/93893818/166306017-3aca29a5-d68c-4514-b582-ef4da88ba55b.png)
 
 2) Seleccionar el icono de la carpeta amarilla para seleccionar la máquina virtual de respaldo.
+
 ![2](https://user-images.githubusercontent.com/93893818/166306209-aa7a4651-b253-45af-8f32-72d33746c0c7.png)
 
 3) Seleccionamos la máquina virtual de respaldo y le damos clic en abrir.
+
 ![3](https://user-images.githubusercontent.com/93893818/166306330-f369fc31-81d7-465b-bf68-fd352b230b72.png)
 
 4) Damos clic en siguiente.
@@ -58,9 +68,11 @@ LEVANTAR EL RESPALDO  DE LA MAQUINA VIRTUAL UBUNTU
 ![7](https://user-images.githubusercontent.com/93893818/166306836-2cb83f2f-6d05-4a25-a5ef-1e839e6cfcc7.png)
 
 8) Iniciar la maquina virtual de respaldo dando clic en la flecha verde iniciar o doble click sobre la maquina.
+
 ![8](https://user-images.githubusercontent.com/93893818/166306942-7b4addb2-a745-43e2-bce9-4a2ff737a916.png)
 
 9) Listo, se creo el respaldo de la maquina virtual.
+
 ![9](https://user-images.githubusercontent.com/93893818/166307022-e6ce7933-c70e-4f6b-a773-2dc8c24537f6.png)
 
 
