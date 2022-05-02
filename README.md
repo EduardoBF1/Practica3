@@ -96,5 +96,44 @@ Con “sudo make modules_install” se hace la instalación de los módulos.
 
 ## 9. ¿Cómo instalar el kernel?
 
+Dentro de el archivo donde esta el kernel se aplica el comando “sudo make install” para instalar el kernel.
+
+![image](https://user-images.githubusercontent.com/88467362/166302498-4a74b30f-4dba-4614-8867-c8711c3b11e6.png)
+![image](https://user-images.githubusercontent.com/88467362/166302515-16421122-4710-43b3-a0f4-05a91ded2ceb.png)
+
+## 10. ¿Cómo indicarle a la computadora con cuál kernel debe iniciar?
+
+Este es el que tenemos predeterminado
+
+![image](https://user-images.githubusercontent.com/88467362/166302571-63b26023-418d-4285-a93d-9ab9f054639f.png)
+
+Paso 1: hacemos un grep indicando la versión del kernel que queremos poner.
+
+![image](https://user-images.githubusercontent.com/88467362/166302607-4f79348a-1aa2-409d-8162-cd4a1e582472.png)
+
+Paso 2: Copiamos lo del final.
+
+![image](https://user-images.githubusercontent.com/88467362/166302644-c7b383a7-dc6a-4b9b-9542-e93e6d6d7865.png)
+
+Paso 3: Modificamos la variable GRUB_DEFAULT pegando lo que copiamos en el paso anterior abriendo el archivo grub.
+
+![image](https://user-images.githubusercontent.com/88467362/166302689-6302302a-f895-4f87-95ec-0660d09655e0.png)
+
+Paso 4: Actualizar la configuración de grub.
+
+![image](https://user-images.githubusercontent.com/88467362/166302713-0029f18c-a7d7-4773-9a65-0c8cd9e0aa4e.png)
+
+Paso 5: Reiniciamos.
+
+![image](https://user-images.githubusercontent.com/88467362/166302754-e81a78b9-b334-4b3f-9971-a884375467ce.png)
+
+## 11. ¿Cómo verificar el cambio de kernel a partir de consola?
+
+![image](https://user-images.githubusercontent.com/88467362/166302813-e569ac9c-40f2-40bf-9234-04d478cd2a06.png)
+
+
+
+
+
 
 
