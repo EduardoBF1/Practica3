@@ -18,6 +18,7 @@ En esta práctica podremos observar la instalación de una nueva versión del ke
 ![5](https://user-images.githubusercontent.com/93893818/166301740-d4ce7cd3-fd1a-4604-add1-dcbad5712b38.png)
 
 6) Damos clic en siguiente.
+
 ![6](https://user-images.githubusercontent.com/93893818/166303590-c0639af2-6a5e-4ba1-83c1-af5a695db498.png)
 
 7) Le damos clic en exportar.
