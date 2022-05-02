@@ -15,3 +15,5 @@ Con “wget” seguido de la dirección de la versión del kernel que de dese , 
 ![2](https://user-images.githubusercontent.com/88467362/166297251-ca708db7-816c-44d7-b6fb-05a88b21c375.png)
 
 
+
+
