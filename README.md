@@ -23,6 +23,12 @@ En esta práctica podremos observar la instalación de una nueva versión del ke
 7) Le damos clic en exportar.
 ![7](https://user-images.githubusercontent.com/93893818/166303708-ba1feaf9-4c16-49e9-b58a-02afa1d2dad6.png)
 
+8) Esperamos a que se complete de exportar.
+![8](https://user-images.githubusercontent.com/93893818/166304430-81f5b39d-a74d-4931-a825-df7596eae4da.png)
+
+9) Al finalizar se visualizará el archivo en la carpeta donde se guardó.
+![9](https://user-images.githubusercontent.com/93893818/166304498-7f4c8471-c4a3-4382-83ae-1dcc9ffd9d6f.png)
+
 
 ## 2.	Explicar la nomenclatura del kernel.
 
