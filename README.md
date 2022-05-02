@@ -42,15 +42,19 @@ LEVANTAR EL RESPALDO  DE LA MAQUINA VIRTUAL UBUNTU
 ![3](https://user-images.githubusercontent.com/93893818/166306330-f369fc31-81d7-465b-bf68-fd352b230b72.png)
 
 4) Damos clic en siguiente.
+
 ![4](https://user-images.githubusercontent.com/93893818/166306417-5e4b8295-7914-4737-9b86-81183f8b01d8.png)
 
 5) Damos clic en importar.
+
 ![5](https://user-images.githubusercontent.com/93893818/166306489-6d7cbf0d-23ca-4805-8306-6b47237876b2.png)
 
 6) Esperar a que se importe.
+
 ![6](https://user-images.githubusercontent.com/93893818/166306756-32b1cf69-79b0-465b-b030-4b081d9c9ce4.png)
 
 7) Se ha creado el respaldo
+
 ![7](https://user-images.githubusercontent.com/93893818/166306836-2cb83f2f-6d05-4a25-a5ef-1e839e6cfcc7.png)
 
 8) Iniciar la maquina virtual de respaldo dando clic en la flecha verde iniciar o doble click sobre la maquina.
