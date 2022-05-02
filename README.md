@@ -2,6 +2,7 @@
 En esta práctica podremos observar la instalación de una nueva versión del kernel.
 
 ## 1. ¿Cómo hacer un respaldo de una máquina virtual? y ¿cómo levantar ese respaldo?
+1.- Seleccionar la máquina que se quiera respaldar.
 
 ## 3. Investigar y enlistar los paquetes requeridos para la compilación y ¿cómo instalarlos desde terminal?
 
