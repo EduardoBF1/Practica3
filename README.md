@@ -1,4 +1,13 @@
 # Practica3
+Integrantes:
+
+Bernal Figa Eduardo
+Jimenez Rangel Jacobo
+Migranas Ceja Roberto
+Serratos Mendoza Santiago
+
+Equipo: Super sangre joven 
+
 En esta práctica podremos observar la instalación de una nueva versión del kernel.
 
 ## 1. ¿Cómo hacer un respaldo de una máquina virtual? y ¿cómo levantar ese respaldo?
