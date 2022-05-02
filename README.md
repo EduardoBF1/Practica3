@@ -35,6 +35,66 @@ Con “wget” seguido de la dirección de la versión del kernel que de dese , 
 
 ![2](https://user-images.githubusercontent.com/88467362/166297251-ca708db7-816c-44d7-b6fb-05a88b21c375.png)
 
+## 5. ¿Cómo extraer el código comprimido del kernel desde terminal?
+
+Con “tar Jxvf” seguido del archivo, hacemos que el archivo se pueda extraer. 
+
+![3](https://user-images.githubusercontent.com/88467362/166298582-7075798a-c132-4cfd-adcd-a92bc13a615f.png)
+
+## 6.	¿Cómo configurar el kernel? 
+
+Entrar en el directorio de las fuentes:
+
+![image](https://user-images.githubusercontent.com/88467362/166300927-e4f20bc2-785e-4b2e-bbe2-6a031daa9f4f.png)
+
+## 7. ¿Cómo compilar el código del kernel? 
+
+Paso 1: Instalamos los recursos necesarios:
+
+![image](https://user-images.githubusercontent.com/88467362/166298692-b547abf8-7b45-4723-b3b7-ddc65977c1ba.png)
+
+Paso 2: Instalar el kernel paackage:
+
+![image](https://user-images.githubusercontent.com/88467362/166298729-ff38d5b5-ce89-4516-becf-93b01b23f9ca.png)
+
+Paso 3: Descargar el código fuente del kernel Linux:
+
+![image](https://user-images.githubusercontent.com/88467362/166298760-1047010a-6d59-4192-add8-0124b6ff3c6e.png)
+
+Paso 4: Desempaquetar las fuentes: tar avxf linux-5.8.15.tar.xz
+
+![image](https://user-images.githubusercontent.com/88467362/166298836-e40c7f19-bb9b-4b5a-babc-7f7cb5b3055c.png)
+
+Paso 5: Entrar en el directorio de las fuentes:
+
+![image](https://user-images.githubusercontent.com/88467362/166298892-19e577e9-c152-41ff-bde9-98306b4a6674.png)
+
+Paso 6: Tomar como referencia el kernel que estamos usando:
+
+![image](https://user-images.githubusercontent.com/88467362/166298926-929a08b9-94a6-4017-9364-b962bed4c747.png)
+
+Paso7: Tomar como base los módulos del kernel que están en uso actualmente:
+
+![image](https://user-images.githubusercontent.com/88467362/166298956-f9dbdaf2-83b9-43ea-a0f6-c527f9cf0179.png)
+
+Paso 8: Configuramos nuestro kernel: Marca error porque el archivo es muy pequeño, asi lo vamos a dejar ya que no queremos modificar nada.
+
+![image](https://user-images.githubusercontent.com/88467362/166298982-2d2158eb-d8a4-43ea-9490-2d93573c0b3e.png)
+
+Paso 9: Compilamos el kernel: con el comando “make”
+
+![image](https://user-images.githubusercontent.com/88467362/166299012-10f895bc-2066-456a-b92e-e413eb24635c.png)
+![image](https://user-images.githubusercontent.com/88467362/166299028-aa872bc6-36c5-44b2-82ec-8e7c13fd61b8.png)
+
+## 8. ¿Cómo instalar módulos? 
+
+Con “sudo make modules_install” se hace la instalación de los módulos.
+
+![image](https://user-images.githubusercontent.com/88467362/166299082-28b84c51-7fd8-4cce-9a34-1515261dc66e.png)
+![image](https://user-images.githubusercontent.com/88467362/166299506-fc2bb87d-dcbd-4d6a-bf78-f0092a83c798.png)
+![image](https://user-images.githubusercontent.com/88467362/166299552-4561bd76-2b80-4ee8-94e0-a4a7d8a738a0.png)
+
+## 9. ¿Cómo instalar el kernel?
 
 
 
